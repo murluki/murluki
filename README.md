@@ -4,3 +4,8 @@
 - 💞️ I’m looking to collaborate on privacy, anonimity, web3 and blockchain, defi, and TON projects. 
 - 📫 How to reach me @murliki_prg on telegram or timofeli.work@gmail.com
 
+⭐︎ Me vs coding exercises ⭐︎ 
+
+https://leetcode.com/murluki/
+https://www.hackerrank.com/timofeli_work?hr_r=1
+

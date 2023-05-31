@@ -1,3 +1,6 @@
+Privacy advocate, Nymja, web3 researcher.
+Everything, everywhere and all at once. 
+
 - 👋 Hi, I’m @murluki. Based in Prague, Czech Republic. 
 - 👀 I’m interested in building new internet. 
 - 🌱 I’m currently learning everything blockchain, but not everything web3 ;)

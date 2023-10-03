@@ -13,12 +13,4 @@ https://leetcode.com/murluki/
 
 https://www.hackerrank.com/timofeli_work?hr_r=1
 
-The node I am running:
 
-https://explorer.nymtech.net/network-components/mixnode/950
-
-If you feel like delegating ;) 
-4fWiuLdRSZUWbseqBUwGgZeofJnEX1ZoVzjn6m6at2qn
-
-Or wanting to buy me coffee with NYM :D 
-n1thxd0dy25d4szyztc3sghawrzheyg35l44x0q3
